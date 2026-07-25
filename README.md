@@ -1,48 +1,67 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="./banner.jpg" alt="Rayyan - DevOps & DevSecOps Specialist Banner" width="100%" />
+  <!-- Top Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00d2ff,100:2C5364&height=200&section=header&text=RAYYAN&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20%7C%20SRE%20Specialist&descAlignY=62&descAlign=50" width="100%" />
 
   <br/><br/>
 
-  <!-- Header Animated Greeting -->
-  <h1>💫 Hi, I'm Rayyan</h1>
-  <h3>🚀 DevOps | DevSecOps | Cloud | SRE Specialist</h3>
+  <!-- Main Custom Tech Banner -->
+  <a href="https://github.com/rayyankhan-devops">
+    <img src="./banner.jpg" alt="Rayyan - DevOps & DevSecOps Specialist Banner" width="100%" style="border-radius: 10px;" />
+  </a>
 
-  <p>
+  <br/><br/>
+
+  <!-- Animated Greeting with Waving Hand GIF -->
+  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinLasek/MartinLasek/master/wave.gif" width="38px">, I'm Rayyan!</h1>
+
+  <!-- Dynamic Typing SVG -->
+  <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Automate+everything.;Secure+by+default.;Keep+systems+reliable.;Production-Ready+DevOps+%7C+DevSecOps+%7C+Cloud." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Automate+Everything.+Secure+by+Default.;Architecting+High-Availability+Cloud+Systems.;Building+Production-Ready+DevSecOps+Pipelines.;Infrastructure+as+Code+%7C+Kubernetes+%7C+AWS." alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Social Badges -->
-  <p>
+  <br/>
+
+  <!-- Social Badges with Hover Glow Effect Links -->
+  <p align="center">
     <a href="https://linkedin.in/muhammad-rayyan079" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:rkkhan0750@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://mastodon.social/@Muhammad Rayyan" target="_blank">
       <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rayyankhan-devops&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rayyankhan-devops&label=⚡%20Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
 
----
+<!-- Animated Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ### 📖 About Me
 
 I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **secure**, and **automated** cloud infrastructure. Experienced in delivering production-ready environments through automated CI/CD pipelines, containerization, Infrastructure as Code, and continuous security scanning.
 
-> *"Automate everything. Secure by default. Keep systems reliable."*
+> ⚡ *"Automate everything. Secure by default. Keep systems reliable."*
 
----
+<br/>
+
+<!-- Animated Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ### <table>
   <tr>
@@ -74,9 +93,14 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
   </tr>
 </table>
 
----
+<br/>
 
-### 💻 Tech Stack
+<!-- Animated Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+### 💻 Tech Stack & Ecosystem
 
 #### ☁️ Cloud & Hosting Platform
 <p>
@@ -148,9 +172,21 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
----
+<br/>
 
-### 📊 GitHub Dashboard
+<!-- Animated Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <!-- Animated Activity Graph Widget -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyankhan-devops&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=rayyankhan-devops&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rayyan's GitHub Stats" width="49%" />
@@ -161,6 +197,13 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rayyankhan-devops&theme=dark&hide_border=false" alt="GitHub Streak" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 GitHub Contribution Grid Snake</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
@@ -183,7 +226,10 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
+<br/>
+
+<!-- Animated Capsule Render Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00d2ff,100:0d1117&height=120&section=footer" width="100%" />
 
 <div align="center">
   <p>⚡ Crafted with passion for automation and security by <b>Rayyan</b></p>
