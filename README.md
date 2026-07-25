@@ -7,11 +7,11 @@
 
   <!-- Header Animated Greeting -->
   <h1>💫 Hi, I'm Rayyan</h1>
-  <h3>🚀 DevOps | DevSecOps | Cloud | SRE Enthusiast</h3>
+  <h3>🚀 DevOps | DevSecOps | Cloud | SRE Specialist</h3>
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Automate+everything.;Secure+by+default.;Keep+systems+reliable.;Building+production-ready+DevOps+infrastructure." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Automate+everything.;Secure+by+default.;Keep+systems+reliable.;Production-Ready+DevOps+%7C+DevSecOps+%7C+Cloud." alt="Typing SVG" />
     </a>
   </p>
 
@@ -38,7 +38,7 @@
 
 ### 📖 About Me
 
-I'm passionate about building **reliable**, **secure**, and **automated** cloud infrastructure. Currently focused on mastering modern DevOps practices through hands-on projects, continuous learning, and real-world automation.
+I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **secure**, and **automated** cloud infrastructure. Experienced in delivering production-ready environments through automated CI/CD pipelines, containerization, Infrastructure as Code, and continuous security scanning.
 
 > *"Automate everything. Secure by default. Keep systems reliable."*
 
@@ -47,28 +47,28 @@ I'm passionate about building **reliable**, **secure**, and **automated** cloud 
 ### <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 What I'm Learning</h3>
+      <h3>⚡ Core Competencies & Skills</h3>
       <ul>
         <li>🐧 <b>Linux Administration</b></li>
         <li>🌿 <b>Git & GitHub Automation</b></li>
         <li>🐳 <b>Docker & Containerization</b></li>
         <li>☁️ <b>AWS & Multi-Cloud Architecture</b></li>
         <li>⚙️ <b>CI/CD Pipelines (GitHub Actions)</b></li>
-        <li>🛡️ <b>DevSecOps & Automated Security</b></li>
-        <li>📜 <b>Bash & Python Scripting</b></li>
+        <li>🛡️ <b>DevSecOps & Automated Security Scanning</b></li>
+        <li>📜 <b>Bash & Python Automation</b></li>
         <li>📦 <b>Infrastructure as Code (Terraform)</b></li>
-        <li>📊 <b>Monitoring & Observability</b></li>
-        <li>🌐 <b>Networking Fundamentals</b></li>
+        <li>📊 <b>Monitoring & Observability (Prometheus & Grafana)</b></li>
+        <li>🌐 <b>Networking & Web Server Management (Nginx/Apache)</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 Current Goals</h3>
+      <h3>🚀 Engineering Focus & Highlights</h3>
       <ul>
-        <li>🚀 Building production-ready, highly available DevOps projects</li>
-        <li>☸️ Deepening hands-on mastery of <b>Kubernetes</b> & container orchestration</li>
-        <li>🛡️ Embedding automated security scanning directly into CI/CD workflows</li>
-        <li>🏗️ Architecting scalable Cloud Infrastructure with <b>Terraform</b> & <b>Ansible</b></li>
-        <li>🤝 Open to collaboration, open-source projects, and SRE opportunities</li>
+        <li>🏗️ <b>Production-Ready Infrastructure:</b> Architecting scalable, highly available cloud systems.</li>
+        <li>☸️ <b>Container Orchestration:</b> Managing containerized applications with Docker & Kubernetes.</li>
+        <li>🛡️ <b>Shift-Left Security:</b> Embedding automated static analysis & vulnerability scanning into CI/CD workflows.</li>
+        <li>📜 <b>Automation & IaC:</b> Deploying reproducible environments using Terraform & Ansible.</li>
+        <li>🤝 <b>Open for Opportunities:</b> Available for DevOps, DevSecOps, SRE, and Cloud Engineering roles.</li>
       </ul>
     </td>
   </tr>
@@ -164,6 +164,18 @@ I'm passionate about building **reliable**, **secure**, and **automated** cloud 
 </div>
 
 <br/>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=rayyankhan-devops&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔝 Top Contributed Repositories</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rayyankhan-devops&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 
 <br/>
 
