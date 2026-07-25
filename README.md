@@ -24,7 +24,7 @@
 
   <br/>
 
-  <!-- Social Badges with Hover Glow Effect Links -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://linkedin.in/muhammad-rayyan079" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -179,7 +179,7 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
 
 <br/>
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Comprehensive Analytics
 
 <div align="center">
   <!-- Animated Activity Graph Widget -->
@@ -202,22 +202,16 @@ I am a **DevOps & DevSecOps Engineer** dedicated to building **reliable**, **sec
 <br/>
 
 <div align="center">
-  <h3>🐍 GitHub Contribution Grid Snake</h3>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <h3>⚡ GitHub Profile Overview</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayyankhan-devops&theme=2077" alt="GitHub Profile Details" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=rayyankhan-devops&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=rayyankhan-devops&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <h3>📈 Commit & Language Analytics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayyankhan-devops&theme=2077" alt="GitHub Stats Summary" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayyankhan-devops&theme=2077" alt="Repos Per Language" width="49%" />
 </div>
 
 <br/>
