@@ -165,18 +165,6 @@ I'm passionate about building **reliable**, **secure**, and **automated** cloud 
 
 <br/>
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=rayyankhan-devops&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=rayyankhan-devops&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
 <br/>
 
 <div align="center">
