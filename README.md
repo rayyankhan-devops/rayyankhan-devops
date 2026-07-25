@@ -67,35 +67,45 @@
 
 <br/>
 
-### <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Core Competencies & Skills</h3>
-      <ul>
-        <li>🐧 <b>Linux Administration</b></li>
-        <li>🌿 <b>Git & GitHub Automation</b></li>
-        <li>🐳 <b>Docker & Containerization</b></li>
-        <li>☁️ <b>AWS & Multi-Cloud Architecture</b></li>
-        <li>⚙️ <b>CI/CD Pipelines (GitHub Actions)</b></li>
-        <li>🛡️ <b>DevSecOps & Automated Security Scanning</b></li>
-        <li>📜 <b>Bash & Python Automation</b></li>
-        <li>📦 <b>Infrastructure as Code (Terraform)</b></li>
-        <li>📊 <b>Monitoring & Observability (Prometheus & Grafana)</b></li>
-        <li>🌐 <b>Networking & Web Server Management (Nginx/Apache)</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Engineering Focus & Highlights</h3>
-      <ul>
-        <li>🏗️ <b>Production-Ready Infrastructure:</b> Architecting scalable, highly available cloud systems.</li>
-        <li>☸️ <b>Container Orchestration:</b> Managing containerized applications with Docker & Kubernetes.</li>
-        <li>🛡️ <b>Shift-Left Security:</b> Embedding automated static analysis & vulnerability scanning into CI/CD workflows.</li>
-        <li>📜 <b>Automation & IaC:</b> Deploying reproducible environments using Terraform & Ansible.</li>
-        <li>🤝 <b>Open for Opportunities:</b> Available for DevOps, DevSecOps, SRE, and Cloud Engineering roles.</li>
-      </ul>
-    </td>
-  </tr>
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><h3>⚡ Core Competencies</h3></th>
+      <th width="50%"><h3>🚀 Engineering Highlights</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="left">
+        <br/>
+        🔹 <b>Linux Administration</b> & Scripting<br/><br/>
+        🔹 <b>Git & GitHub Automation</b> Workflows<br/><br/>
+        🔹 <b>Docker & Containerization</b><br/><br/>
+        🔹 <b>AWS & Multi-Cloud</b> Architecture<br/><br/>
+        🔹 <b>CI/CD Pipelines</b> (GitHub Actions)<br/><br/>
+        🔹 <b>DevSecOps</b> & Vulnerability Scanning<br/><br/>
+        🔹 <b>Bash & Python</b> Automation<br/><br/>
+        🔹 <b>Infrastructure as Code</b> (Terraform)<br/><br/>
+        🔹 <b>Observability</b> (Prometheus & Grafana)<br/><br/>
+        🔹 <b>Networking</b> & Web Servers (Nginx / Apache)<br/>
+        <br/>
+      </td>
+      <td valign="top" align="left">
+        <br/>
+        🏗️ <b>Production-Ready Infrastructure:</b><br/>Architecting resilient & high-availability cloud systems.<br/><br/>
+        ☸️ <b>Container Orchestration:</b><br/>Managing workloads with Docker & Kubernetes.<br/><br/>
+        🛡️ <b>Shift-Left Security:</b><br/>Embedding SAST & vulnerability scans in CI/CD workflows.<br/><br/>
+        📜 <b>Automation & IaC:</b><br/>Deploying reproducible environments using Terraform & Ansible.<br/><br/>
+        🤝 <b>Open for Opportunities:</b><br/>Available for DevOps, DevSecOps, SRE, and Cloud Engineering roles.<br/>
+        <br/>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+</div>
 
 <br/>
 
