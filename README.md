@@ -219,33 +219,20 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Activity & Comprehensive Analytics</h2>
+  <h2>📊 GitHub Activity & Analytics</h2>
 
   <!-- Animated Activity Graph Widget -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyankhan-devops&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
   <br/><br/>
 
+  <!-- Verified Reliable Stats Cards -->
   <img src="https://github-readme-stats.shion.dev/api?username=rayyankhan-devops&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rayyan's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayyankhan-devops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=rayyankhan-devops&theme=dark&hide_border=false" alt="GitHub Streak" width="98%" />
-
-  <br/><br/>
-
-  <h3>⚡ GitHub Profile Overview</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayyankhan-devops&theme=2077" alt="GitHub Profile Details" width="100%" />
-
-  <br/><br/>
-
-  <h3>📈 Commit & Language Analytics</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayyankhan-devops&theme=2077" alt="GitHub Stats Summary" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayyankhan-devops&theme=2077" alt="Repos Per Language" width="49%" />
-
-  <br/><br/>
-
+  <!-- Dev Quote Card -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
